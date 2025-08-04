@@ -64,7 +64,7 @@
 
 ### 💳 **Subscription Management**
 - **$20/month** professional subscription
-- **5 free reviews** per month for new users
+- **10 free reviews** per month for new users
 - **Secure payment** via Stripe
 - **Automatic subscription** verification
 - **Usage tracking** and limits
@@ -146,7 +146,7 @@ The extension automatically configures itself through secure backend services. N
 
 ## 💰 Pricing
 
-- **Free Tier**: 5 reviews per month
+- **Free Tier**: 10 reviews per month
 - **Pro Subscription**: $20/month for unlimited reviews
 - **Secure Payment**: Processed via Stripe
 - **Cancel Anytime**: No long-term commitments
